@@ -57,9 +57,7 @@
     <version>4.28.0</version>
 </dependency>
 </dependencies>
-<profiles>
-<profile>
-<id>ST</id>
+
 <build>
 		<plugins>
 			<plugin>
@@ -74,6 +72,4 @@
 			</plugin>
 		</plugins>
 	</build>
-</profile>
-</profiles>
 </project>
